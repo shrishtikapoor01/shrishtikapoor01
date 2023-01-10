@@ -7,6 +7,6 @@
 <!--Header-->
 
 <p align="center">
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Ftechnology.html&psig=AOvVaw3yOl-ji-1zRz2KEb6s4IoU&ust=1673440514618000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICsgMWCvfwCFQAAAAAdAAAAABAE](https://thumbs.dreamstime.com/z/new-skills-knowledge-webinar-training-business-internet-technology-concept-new-skills-knowledge-webinar-training-business-internet-121274023.jpg)" width="1000" height="450" />
+  <img src="https://drive.google.com/file/d/1iLFJ9knKfd4j7ceK_8YLbDxqyROjxtrV/view?usp=share_link" width="1000" height="450" />
 </p>
 
