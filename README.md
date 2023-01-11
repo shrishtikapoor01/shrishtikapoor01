@@ -82,7 +82,18 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 <img align="left" alt="ML" width="45px" src="https://avatars2.githubusercontent.com/u/42399997" /></a>
  <br />
  <br />
- 
+
+
+<!--Github Progess bar-->
+
+## Quick Overview 📝
+    
+<a href="https://github.com/hackcoderr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=shrishtikapoor01&show_icons=true&include_all_commits=true&theme=radical" alt="Shrishti's github stats" />
+</a>
+<a href="https://github.com/shrishtikapoor01/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shrishtikapoor01&layout=compact&theme=radical" />
+</a>
  
  <!--Workspace-->
  ## MyWork 🤓
