@@ -123,7 +123,6 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
  
  <a href="https://www.linkedin.com/pulse/high-availability-architecture-aws-cli-shrishti-kapoor/?trackingId=Q1Pxw3uX6EN5%2B0TdTz3TMw%3D%3D" target="_blank" style="text-decoration:none">High Availability Architecture with AWS CLI.</a>
  
- 
  <a href="https://www.linkedin.com/pulse/high-availability-architecture-aws-cli-shrishti-kapoor/?trackingId=Q1Pxw3uX6EN5%2B0TdTz3TMw%3D%3D" target="_blank" style="text-decoration:none">High Availability Architecture with AWS CLI.</a>
  
  <a href="https://shrishtikapoor01.medium.com/kubernetes-a-boon-for-azure-aks-cf04907cc931" target="_blank" style="text-decoration:none">Kubernetes -A Boon for Azure - AKS.</a>
@@ -131,6 +130,17 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
  <a href="https://shrishtikapoor01.medium.com/amazon-sqs-service-d89d87c8227a" target="_blank" style="text-decoration:none">AMAZON - SQS SERVICE.</a>
 
 </td><td valign="top" width="25%"> 
+ 
+ ### Videos
+<!-- videos -->
+ 
+ <a href="https://shrishtikapoor01.medium.com/kubernetes-a-boon-for-azure-aks-cf04907cc931" target="_blank" style="text-decoration:none">Kubernetes -A Boon for Azure - AKS.</a>
+ 
+ <a href="https://shrishtikapoor01.medium.com/amazon-sqs-service-d89d87c8227a" target="_blank" style="text-decoration:none">AMAZON - SQS SERVICE.</a>
+
+ 
+ 
+</td><td valign="top" width="50%">
 
 
 <!--footer-->
