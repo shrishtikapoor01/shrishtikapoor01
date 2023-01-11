@@ -182,7 +182,7 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 </a>  
 </div>  
 </br>
-<img style="margin-left:50px" height="200" alt="Thanks for visiting me" width="200" src="https://media.tenor.com/lfglMaF0AeMAAAAC/thank-you-pooh.gif" />
+<img style="margin-left:100px height="200" alt="Thanks for visiting me" width="200" src="https://media.tenor.com/lfglMaF0AeMAAAAC/thank-you-pooh.gif" />
 
 
 
