@@ -156,7 +156,11 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
  
  <a href="https://www.linkedin.com/posts/shrishti-kapoor_python-cgi-iiec-activity-6716712588857667584-ng2k?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">Webapp for running basic Linux commands</a>
  
-
+<a href="https://www.linkedin.com/posts/shrishti-kapoor_vimaldaga-righteducation-educationredefine-activity-6805444675424579584-Fzno?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">GUI container on Docker</a>
+ 
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_python-vimaldaga-righteducation-activity-6750413341006594048-qCfi?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">Ansible playbook performing docker operations</a>
+ 
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-i-am-activity-6809547578041004032-g7uB?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">Python- Image processing</a>
 
 <!--footer-->
 
