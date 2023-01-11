@@ -35,7 +35,7 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 
 ### Tools and Technologies:
 
-[<img align="left" alt="AWS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />]
+[<img align="left" alt="AWS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" href="https://aws.amazon.com/" />]
  [<img align="left" alt="GCP" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" />]
  [<img align="left" alt="Azure" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftazure.svg" />]
  [<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />]
