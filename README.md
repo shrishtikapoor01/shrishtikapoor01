@@ -15,8 +15,8 @@
 <div align="center">
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shrishtikapoor01)
-[![Linkedin Badge](https://img.shields.io/badge/-Amit%20Sharma-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shrishti-kapoor/)](https://www.linkedin.com/in/shrishti-kapoor/) 
-[![Instagram Badge](https://img.shields.io/badge/-AmitSharma-blue?style=social&logo=Instagram&link=https://www.instagram.com/shrishtikapoor01/?hl=en/)](https://www.instagram.com/shrishtikapoor01/?hl=en%2F) 
+[![Linkedin Badge](https://img.shields.io/badge/-Shrishti%20Kapoor-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shrishti-kapoor/)](https://www.linkedin.com/in/shrishti-kapoor/) 
+[![Instagram Badge](https://img.shields.io/badge/-Shrishti%20Kapoor-blue?style=social&logo=Instagram&link=https://www.instagram.com/shrishtikapoor01/?hl=en/)](https://www.instagram.com/shrishtikapoor01/?hl=en%2F) 
 
 
 
