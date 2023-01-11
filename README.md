@@ -18,8 +18,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Shrishti%20Kapoor-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shrishti-kapoor/)](https://www.linkedin.com/in/shrishti-kapoor/) 
 [![Instagram Badge](https://img.shields.io/badge/-Shrishti%20Kapoor-blue?style=social&logo=Instagram&link=https://www.instagram.com/shrishtikapoor01/?hl=en/)](https://www.instagram.com/shrishtikapoor01/?hl=en%2F) 
 
-
-
 </div>    
 </br>
 
@@ -34,7 +32,8 @@
 Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Kapoor</b>. Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. I have a keen interest in Learning New Technologies. Some of my learnings are ML, AI. Automation tools like Ansible, Kubernetes, Jenkins, OpenShift, Cloud Computing like AWS, Microsoft Azure and many more. All this describes my background that is Computer Science Engineer👩‍🎓
 
 </div>
-
+<br/>
+</br>
 
 <!--footer-->
 
