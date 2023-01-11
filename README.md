@@ -26,7 +26,7 @@
  <p>
   <img width="240" height="230" align='left' src="https://media.licdn.com/dms/image/C5603AQHSkUkBQELuzQ/profile-displayphoto-shrink_400_400/0/1643257181135?e=1678924800&v=beta&t=hNwxNvf5Dm8wWdPJoBFOkkKrdMW6cdFaTA2OTfkUt74"> 
 </p>
-  
+ 
 ## About Me ✍
  
 Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Kapoor</b>. Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. I have a keen interest in Learning New Technologies. Some of my learnings are ML, AI. Automation tools like Ansible, Kubernetes, Jenkins, OpenShift, Cloud Computing like AWS, Microsoft Azure and many more. All this describes my background that is Computer Science Engineer👩‍🎓
@@ -34,46 +34,84 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 </div>
 <br/>
 </br>
-<a href="https://cloud.google.com/">
+
+<!--technical skill-->
+
+## Technical Skills 🛠 
+<a href="https://cloud.google.com/" target="_blank">
 <img align="left" alt="GCP" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" /></a>
 
-<a href="https://azure.microsoft.com/en-in/features/azure-portal/">
+<a href="https://azure.microsoft.com/en-in/features/azure-portal/" target="_blank">
 <img align="left" alt="Azure" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftazure.svg" /></a>
 
-<a href="https://www.python.org/">
+<a href="https://www.python.org/" target="_blank">
 <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" /></a>
 
-<a href="https://www.linux.org/">
+<a href="https://www.linux.org/" target="_blank">
 <img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" /></a>
 
-<a href="https://www.docker.com/">
+<a href="https://www.docker.com/" target="_blank">
 <img align="left" alt="Docker" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" /></a>
 
-<a href="https://www.ansible.com/">
+<a href="https://www.ansible.com/" target="_blank">
 <img align="left" alt="Ansible" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ansible.svg" /></a>
 
-<a href="https://kubernetes.io/">
+<a href="https://kubernetes.io/" target="_blank">
 <img align="left" alt="K8S" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" /></a>
 
-<a href="https://www.terraform.io/">
+<a href="https://www.terraform.io/" target="_blank">
 <img align="left" alt="Terraform" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" /></a>
 
-<a href="https://www.jenkins.io/">
+<a href="https://www.jenkins.io/" target="_blank">
 <img align="left" alt="Jenkins" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" /></a>
 
-<a href="https://git-scm.com/">
+<a href="https://git-scm.com/" target="_blank">
 <img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" /></a>
 
-<a href="https://github.com/">
+<a href="https://github.com/" target="_blank">
 <img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /></a>
 
-<a href="https://hadoop.apache.org/">
+<a href="https://hadoop.apache.org/" target="_blank">
 <img align="left" alt="Hadoop" width="45px" src="https://cdn.freebiesupply.com/logos/large/2x/hadoop-logo-black-and-white.png" /></a>
 
-<a href="https://en.wikipedia.org/wiki/Machine_learning">
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
 <img align="left" alt="ML" width="45px" src="https://avatars2.githubusercontent.com/u/42399997" /></a>
  <br />
  <br />
+ 
+ 
+ <!--Workspace-->
+ ## MyWork 🤓
+ <b>
+<table><tr><td valign="top" width="33%">
+
+### [DEVOPS]
+<!-- recent_releases starts -->
+
+[Launching-A-WordPress-Application-With-MYSQL-Database-in-K8S-Cluster-On-AWS-Using-Ansible-](https://github.com/amit17133129/Launching-A-WordPress-Application-With-MYSQL-Database-in-K8S-Cluster-On-AWS-Using-Ansible-)
+
+[K8S-Cluster-On-AWS](https://github.com/amit17133129/K8S-Cluster-On-AWS)
+
+[Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/)
+
+[CREATING LOAD BALANCER ON AWS USING ANSIBLE ](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task3-creatingabrloadabrbalancerabronabrawsabrusingabransible-activity-6705502102753542144-LbM2/)
+
+[Creating a Animation Application Using Flutter](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
+
+[LAUNCHING EC2 INSTANCE AND CONFIGURING WEBSERVER IN MANAGED NODE BY DYNAMIC INVENTORY USING ANSIBLE ON AWS ​](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task2-devopsengineer-activity-6702545496298266624-c26H/)
+
+[DOCKER 🐳 INTERGRATION WITH ANSIBLE (A)](https://www.linkedin.com/pulse/docker-intergration-ansible-task-1-amit-sharma/)
+
+[Using Terraform and Ansible creating K8S Cluster On AWS and launching Prometheus and Grafana in that K8S Cluster.](https://www.linkedin.com/feed/update/urn:li:activity:6702127648476413952/)
+
+[Deploying Web Server & HAProxy load Balancer on AWS using Ansible](https://www.linkedin.com/pulse/ansible-task-3-creating-load-balancer-aws-using-amit-sharma/)
+
+</td><td valign="top" width="25%"> 
+ 
+### [BigData]
+<!-- recent_releases starts -->
+ [Creating hadoop cluser and making datanode storage dynamic through LVM](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
+
 
 <!--footer-->
 
