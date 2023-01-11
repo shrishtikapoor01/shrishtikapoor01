@@ -139,12 +139,6 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
  <a href="https://shrishtikapoor01.medium.com/amazon-sqs-service-d89d87c8227a" target="_blank" style="text-decoration:none">AMAZON - SQS SERVICE.</a>
 
  
- 
-</td><td valign="top" width="50%">
-< br/>
-< br/>
-< br/>
-< br/>
 
 <!--footer-->
 
