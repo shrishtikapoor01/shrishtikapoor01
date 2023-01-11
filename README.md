@@ -91,6 +91,8 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=shrishtikapoor01&show_icons=true&include_all_commits=true&theme=radical" alt="Shrishti's github stats" />
 </a>
+<br />
+<br />
 <a href="https://github.com/shrishtikapoor01/github-readme-stats">
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shrishtikapoor01&layout=compact&theme=radical" />
 </a>
@@ -100,26 +102,30 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
  <b>
 <table><tr><td valign="top" width="33%">
 
-### [DEVOPS]
+### Blogs
 <!-- recent_releases starts -->
 
-[Launching-A-WordPress-Application-With-MYSQL-Database-in-K8S-Cluster-On-AWS-Using-Ansible-](https://github.com/amit17133129/Launching-A-WordPress-Application-With-MYSQL-Database-in-K8S-Cluster-On-AWS-Using-Ansible-)
+[Configuring Hadoop Setup and Starting cluster services using Ansible Playbook.](https://shrishtikapoor01.medium.com/configuring-hadoop-setup-and-starting-cluster-services-using-ansible-playbook-7ca4ba7ff99)
 
-[K8S-Cluster-On-AWS](https://github.com/amit17133129/K8S-Cluster-On-AWS)
+[Create a Web Menu Using Python-CGI and API :"Integrating all the different technologies.](https://www.linkedin.com/pulse/task-92-create-web-menu-using-python-cgi-api-all-different-kapoor/?trackingId=ii1JpIu%2Fu17gui4UBvRtUg%3D%3D)
+ 
+[AWS as A Health Care in COVID-19.](https://medium.com/linuxworld-informatics-pvt-ltd/aws-as-a-health-care-in-covid-19-d36c8586aa01)
 
-[Deploy the word-press application on K8S and AWS using Terraform](https://www.linkedin.com/pulse/hybrid-multi-cloud-task-6-deploy-word-press-k8s-aws-using-amit-sharma/)
+[Restarting HTTPD Service is not idempotence in nature-Rectifying this challenge in Ansible Playbook.](https://shrishtikapoor01.medium.com/restarting-httpd-service-is-not-idempotence-in-nature-rectifying-this-challenge-in-ansible-playbook-ebda772552d5)
 
-[CREATING LOAD BALANCER ON AWS USING ANSIBLE ](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task3-creatingabrloadabrbalancerabronabrawsabrusingabransible-activity-6705502102753542144-LbM2/)
+[Configuring HTTPD Server on Docker Container & Setting up Python Interpreter and running Python Code on Docker Container.](https://www.linkedin.com/pulse/configuring-httpd-server-docker-container-setting-up-python-kapoor/?trackingId=eJdK5Ej10pbCohw86TrKzg%3D%3D)
 
-[Creating a Animation Application Using Flutter](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
+[Ansible Playbook that will retrieve new Container IP & update the Inventory.](https://shrishtikapoor01.medium.com/ansible-playbook-that-will-retrieve-new-container-ip-update-the-inventory-eba503f48b03)
 
-[LAUNCHING EC2 INSTANCE AND CONFIGURING WEBSERVER IN MANAGED NODE BY DYNAMIC INVENTORY USING ANSIBLE ON AWS ​](https://www.linkedin.com/posts/amit-sharma-35439016a_ansible-task2-devopsengineer-activity-6702545496298266624-c26H/)
+[Ansible Playbook which will dynamically load the variable file.](https://shrishtikapoor01.medium.com/ansible-playbook-which-will-dynamically-load-the-variable-file-named-same-as-os-name-and-just-by-953568d0abb5)
 
-[DOCKER 🐳 INTERGRATION WITH ANSIBLE (A)](https://www.linkedin.com/pulse/docker-intergration-ansible-task-1-amit-sharma/)
+[JENKINS-A KEY FOR THE AUTOMATION WORLD.](https://shrishtikapoor01.medium.com/jenkins-a-key-for-the-automation-world-e602f78e8dec)
+ 
+[High Availability Architecture with AWS CLI.](https://www.linkedin.com/pulse/high-availability-architecture-aws-cli-shrishti-kapoor/?trackingId=Q1Pxw3uX6EN5%2B0TdTz3TMw%3D%3D)
 
-[Using Terraform and Ansible creating K8S Cluster On AWS and launching Prometheus and Grafana in that K8S Cluster.](https://www.linkedin.com/feed/update/urn:li:activity:6702127648476413952/)
+[Kubernetes -A Boon for Azure - AKS.](https://shrishtikapoor01.medium.com/kubernetes-a-boon-for-azure-aks-cf04907cc931)
 
-[Deploying Web Server & HAProxy load Balancer on AWS using Ansible](https://www.linkedin.com/pulse/ansible-task-3-creating-load-balancer-aws-using-amit-sharma/)
+[AMAZON - SQS SERVICE.](https://shrishtikapoor01.medium.com/amazon-sqs-service-d89d87c8227a)
 
 </td><td valign="top" width="25%"> 
 
