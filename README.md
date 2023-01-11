@@ -134,11 +134,29 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
  ### Videos
 <!-- videos -->
  
- <a href="https://shrishtikapoor01.medium.com/kubernetes-a-boon-for-azure-aks-cf04907cc931" target="_blank" style="text-decoration:none">Kubernetes -A Boon for Azure - AKS.</a>
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_python-docker-linux-activity-6983806882612187136-NtEq?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">Login with face</a>
  
- <a href="https://shrishtikapoor01.medium.com/amazon-sqs-service-d89d87c8227a" target="_blank" style="text-decoration:none">AMAZON - SQS SERVICE.</a>
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_righteducation-rightmentor-docker-activity-6741619275779371009-PyGZ?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">Chatbot by using python</a>
+ 
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_internship-makingindiafutureready-summer-activity-6832202809216167936-QJEC?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">Flutter App on Quality Wine Prediction</a>
+ 
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_vimaldaga-righteducation-educationredefine-activity-6786674954244034560-z59I?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">Ansible playbook to Configure Reverse Proxy Load Balancer & Web Server on AWS.</a>
+ 
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_worldrecordholder-training-internship-activity-6819999152735367169-xFK9?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">WebUI for Automation</a>
+ 
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_worldrecordholder-training-internship-activity-6819857874882220032-Z2cP?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">Image Processing</a>
+ 
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_worldrecordholder-training-arthbylw-activity-6813792589884518400-NI0-?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">AWS and ML Integration</a>
+ 
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_vimaldaga-righteducation-educationredefine-activity-6810876017339613184-glmF?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">Live Streaming Video chat app</a>
+ 
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_internship-makingindiafutureready-summertraining2021-activity-6803527096523124736-qHt_?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">Deploying ML Model on top of docker</a>
+ 
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_arth-arth-bigdata-activity-6719875565798645760-hwEW?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">Setting up Hadoop Cluster on AWS Cloud</a>
+ 
+ <a href="https://www.linkedin.com/posts/shrishti-kapoor_python-cgi-iiec-activity-6716712588857667584-ng2k?utm_source=share&utm_medium=member_desktop" target="_blank" style="text-decoration:none">Webapp for running basic Linux commands</a>
+ 
 
- 
 
 <!--footer-->
 
