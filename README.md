@@ -105,7 +105,7 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 ### Blogs
 <!-- recent_releases starts -->
 
- <a href="https://shrishtikapoor01.medium.com/configuring-hadoop-setup-and-starting-cluster-services-using-ansible-playbook-7ca4ba7ff99" target="_blank" style="text-decoration:none"><p>Configuring Hadoop Setup and Starting cluster services using Ansible Playbook.</p></a>
+ <a href="https://shrishtikapoor01.medium.com/configuring-hadoop-setup-and-starting-cluster-services-using-ansible-playbook-7ca4ba7ff99" target="_blank"><p>Configuring Hadoop Setup and Starting cluster services using Ansible Playbook.</p></a>
  
  <a href="https://www.linkedin.com/pulse/task-92-create-web-menu-using-python-cgi-api-all-different-kapoor/?trackingId=ii1JpIu%2Fu17gui4UBvRtUg%3D%3D" target="_blank" style="text-decoration:none"><p>Create a Web Menu Using Python-CGI and API :"Integrating all the different technologies.</p></a>
  
