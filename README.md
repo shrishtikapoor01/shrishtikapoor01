@@ -1,16 +1,16 @@
 # Hi, I'm Shrishti 👩‍💻<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100">
 
  ##  Red Hat Certified Engineer, Aviatrix Certified Engineer and Microsoft AI-900 Certified!
-
- ## Keen to work as a key player in challenging and creative environment.
+ 
 <!--Header-->
 
 <p align="center">
   <img src="https://www.carrierwheels.com/wp-content/uploads/2020/08/Innovation.jpg" width="1000" height="450" />
 </p>
 
-## To Connect with me :)
-</br>
+## Keen to work as a key player in challenging and creative environment.
+
+## To Connect with me 👩
 </br>
 <div align="left">
  
