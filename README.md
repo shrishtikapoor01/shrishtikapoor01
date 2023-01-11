@@ -6,13 +6,13 @@
 <!--Header-->
 
 <p align="center">
-  <img src="https://thumbs.dreamstime.com/z/new-skills-knowledge-webinar-training-business-internet-technology-concept-new-skills-knowledge-webinar-training-business-internet-121274023.jpg" width="1000" height="450" />
+  <img src="" width="1000" height="450" />
 </p>
 
 ## To Connect with me :)
 </br>
 </br>
-<div align="center">
+<div align="left">
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shrishtikapoor01)
 [![Linkedin Badge](https://img.shields.io/badge/-Shrishti%20Kapoor-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shrishti-kapoor/)](https://www.linkedin.com/in/shrishti-kapoor/) 
