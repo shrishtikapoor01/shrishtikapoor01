@@ -39,7 +39,7 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 <!--footer-->
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/shrishti-kapoor/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/shrishti-kapoor/) and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 </em>
 
 
 <div align="center">
