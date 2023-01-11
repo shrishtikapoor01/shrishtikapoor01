@@ -164,7 +164,7 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 
 </td></tr></table> </b>
 <!--footer-->
-<img align='left' src="https://media.giphy.com/media/XeAR6UqpTCeV2t0xDF/giphy.gif" width="100">
+<img align='right' src="https://media.giphy.com/media/XeAR6UqpTCeV2t0xDF/giphy.gif" width="180">
 <br />
 <br />
 ##
@@ -186,7 +186,7 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 <br/>
 <br/>
 
-<img height="100" alt="Thanks for visiting me" width="50%" src="https://media.tenor.com/lfglMaF0AeMAAAAC/thank-you-pooh.gif" />
+<img height="100" alt="Thanks for visiting me" width="200%" src="https://media.tenor.com/lfglMaF0AeMAAAAC/thank-you-pooh.gif" />
 
 
 
