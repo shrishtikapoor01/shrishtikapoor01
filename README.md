@@ -2,7 +2,7 @@
 
  ##  Red Hat Certified Engineer, Aviatrix Certified Engineer and Microsoft AI-900 Certified!
 
- -  Keen to work as a key player in challenging and creative environment.
+ ## Keen to work as a key player in challenging and creative environment.
 <!--Header-->
 
 <p align="center">
