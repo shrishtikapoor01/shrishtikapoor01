@@ -39,7 +39,7 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 
 ## Technical Skills 🛠 
 
-<a href="https://aws.amazon.com/">
+<a href="https://aws.amazon.com/" target="_blank">
 <img align="left" alt="AWS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" /></a>
 
 <a href="https://cloud.google.com/" target="_blank">
