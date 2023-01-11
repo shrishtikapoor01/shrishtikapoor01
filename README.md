@@ -38,6 +38,10 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 <!--technical skill-->
 
 ## Technical Skills 🛠 
+
+<a href="https://aws.amazon.com/">
+<img align="left" alt="AWS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" /></a>
+
 <a href="https://cloud.google.com/" target="_blank">
 <img align="left" alt="GCP" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" /></a>
 
@@ -107,10 +111,6 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 [Deploying Web Server & HAProxy load Balancer on AWS using Ansible](https://www.linkedin.com/pulse/ansible-task-3-creating-load-balancer-aws-using-amit-sharma/)
 
 </td><td valign="top" width="25%"> 
- 
-### [BigData]
-<!-- recent_releases starts -->
- [Creating hadoop cluser and making datanode storage dynamic through LVM](https://www.linkedin.com/pulse/hadoop-static-partition-lvm-amit-sharma/)
 
 
 <!--footer-->
