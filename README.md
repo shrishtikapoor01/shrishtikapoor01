@@ -6,7 +6,7 @@
 <!--Header-->
 
 <p align="center">
-  <img src="" width="1000" height="450" />
+  <img src="https://www.carrierwheels.com/wp-content/uploads/2020/08/Innovation.jpg" width="1000" height="450" />
 </p>
 
 ## To Connect with me :)
