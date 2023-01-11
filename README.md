@@ -34,6 +34,46 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 </div>
 <br/>
 </br>
+<a href="https://cloud.google.com/">
+<img align="left" alt="GCP" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" /></a>
+
+<a href="https://azure.microsoft.com/en-in/features/azure-portal/">
+<img align="left" alt="Azure" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftazure.svg" /></a>
+
+<a href="https://www.python.org/">
+<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" /></a>
+
+<a href="https://www.linux.org/">
+<img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" /></a>
+
+<a href="https://www.docker.com/">
+<img align="left" alt="Docker" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" /></a>
+
+<a href="https://www.ansible.com/">
+<img align="left" alt="Ansible" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ansible.svg" /></a>
+
+<a href="https://kubernetes.io/">
+<img align="left" alt="K8S" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" /></a>
+
+<a href="https://www.terraform.io/">
+<img align="left" alt="Terraform" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" /></a>
+
+<a href="https://www.jenkins.io/">
+<img align="left" alt="Jenkins" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" /></a>
+
+<a href="https://git-scm.com/">
+<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" /></a>
+
+<a href="https://github.com/">
+<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /></a>
+
+<a href="https://hadoop.apache.org/">
+<img align="left" alt="Hadoop" width="45px" src="https://cdn.freebiesupply.com/logos/large/2x/hadoop-logo-black-and-white.png" /></a>
+
+<a href="https://en.wikipedia.org/wiki/Machine_learning">
+<img align="left" alt="ML" width="45px" src="https://avatars2.githubusercontent.com/u/42399997" /></a>
+ <br />
+ <br />
 
 <!--footer-->
 
