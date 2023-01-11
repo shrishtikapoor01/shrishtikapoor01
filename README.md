@@ -105,27 +105,32 @@ Meaning of My name is Universe. Yeah You are thinking Right I am <b> Shrishti Ka
 ### Blogs
 <!-- recent_releases starts -->
 
-[Configuring Hadoop Setup and Starting cluster services using Ansible Playbook.]( target="_blank" https://shrishtikapoor01.medium.com/configuring-hadoop-setup-and-starting-cluster-services-using-ansible-playbook-7ca4ba7ff99)
-
-[Create a Web Menu Using Python-CGI and API :"Integrating all the different technologies.](https://www.linkedin.com/pulse/task-92-create-web-menu-using-python-cgi-api-all-different-kapoor/?trackingId=ii1JpIu%2Fu17gui4UBvRtUg%3D%3D)
+ <a href="https://shrishtikapoor01.medium.com/configuring-hadoop-setup-and-starting-cluster-services-using-ansible-playbook-7ca4ba7ff99" target="_blank" style="text-decoration:none"><p>Configuring Hadoop Setup and Starting cluster services using Ansible Playbook.</p></a>
  
-[AWS as A Health Care in COVID-19.](https://medium.com/linuxworld-informatics-pvt-ltd/aws-as-a-health-care-in-covid-19-d36c8586aa01)
-
-[Restarting HTTPD Service is not idempotence in nature-Rectifying this challenge in Ansible Playbook.](https://shrishtikapoor01.medium.com/restarting-httpd-service-is-not-idempotence-in-nature-rectifying-this-challenge-in-ansible-playbook-ebda772552d5)
-
-[Configuring HTTPD Server on Docker Container & Setting up Python Interpreter and running Python Code on Docker Container.](https://www.linkedin.com/pulse/configuring-httpd-server-docker-container-setting-up-python-kapoor/?trackingId=eJdK5Ej10pbCohw86TrKzg%3D%3D)
-
-[Ansible Playbook that will retrieve new Container IP & update the Inventory.](https://shrishtikapoor01.medium.com/ansible-playbook-that-will-retrieve-new-container-ip-update-the-inventory-eba503f48b03)
-
-[Ansible Playbook which will dynamically load the variable file.](https://shrishtikapoor01.medium.com/ansible-playbook-which-will-dynamically-load-the-variable-file-named-same-as-os-name-and-just-by-953568d0abb5)
-
-[JENKINS-A KEY FOR THE AUTOMATION WORLD.](https://shrishtikapoor01.medium.com/jenkins-a-key-for-the-automation-world-e602f78e8dec)
+ <a href="https://www.linkedin.com/pulse/task-92-create-web-menu-using-python-cgi-api-all-different-kapoor/?trackingId=ii1JpIu%2Fu17gui4UBvRtUg%3D%3D" target="_blank" style="text-decoration:none"><p>Create a Web Menu Using Python-CGI and API :"Integrating all the different technologies.</p></a>
  
-[High Availability Architecture with AWS CLI.](https://www.linkedin.com/pulse/high-availability-architecture-aws-cli-shrishti-kapoor/?trackingId=Q1Pxw3uX6EN5%2B0TdTz3TMw%3D%3D)
-
-[Kubernetes -A Boon for Azure - AKS.](https://shrishtikapoor01.medium.com/kubernetes-a-boon-for-azure-aks-cf04907cc931)
-
-[AMAZON - SQS SERVICE.](https://shrishtikapoor01.medium.com/amazon-sqs-service-d89d87c8227a)
+ <a href="https://medium.com/linuxworld-informatics-pvt-ltd/aws-as-a-health-care-in-covid-19-d36c8586aa01" target="_blank" style="text-decoration:none"><p>AWS as A Health Care in COVID-19.</p></a>
+ 
+ <a href="https://shrishtikapoor01.medium.com/restarting-httpd-service-is-not-idempotence-in-nature-rectifying-this-challenge-in-ansible-playbook-ebda772552d5" target="_blank" style="text-decoration:none"><p>Restarting HTTPD Service is not idempotence in nature-Rectifying this challenge in Ansible Playbook.</p></a>
+ 
+ <a href="https://www.linkedin.com/pulse/configuring-httpd-server-docker-container-setting-up-python-kapoor/?trackingId=eJdK5Ej10pbCohw86TrKzg%3D%3D" target="_blank" style="text-decoration:none"><p>Configuring HTTPD Server on Docker Container & Setting up Python Interpreter and running Python Code on Docker Container.</p></a>
+ 
+ <a href="https://shrishtikapoor01.medium.com/ansible-playbook-that-will-retrieve-new-container-ip-update-the-inventory-eba503f48b03" target="_blank" style="text-decoration:none"><p>Ansible Playbook that will retrieve new Container IP & update the Inventory.</p></a>
+ 
+ <a href="https://shrishtikapoor01.medium.com/ansible-playbook-which-will-dynamically-load-the-variable-file-named-same-as-os-name-and-just-by-953568d0abb5" target="_blank" style="text-decoration:none"><p>Ansible Playbook which will dynamically load the variable file.</p></a>
+ 
+ 
+ <a href="https://shrishtikapoor01.medium.com/jenkins-a-key-for-the-automation-world-e602f78e8dec" target="_blank" style="text-decoration:none"><p>JENKINS-A KEY FOR THE AUTOMATION WORLD.</p></a>
+ 
+ 
+ <a href="https://www.linkedin.com/pulse/high-availability-architecture-aws-cli-shrishti-kapoor/?trackingId=Q1Pxw3uX6EN5%2B0TdTz3TMw%3D%3D" target="_blank" style="text-decoration:none"><p>High Availability Architecture with AWS CLI.</p></a>
+ 
+ 
+ <a href="https://www.linkedin.com/pulse/high-availability-architecture-aws-cli-shrishti-kapoor/?trackingId=Q1Pxw3uX6EN5%2B0TdTz3TMw%3D%3D" target="_blank" style="text-decoration:none"><p>High Availability Architecture with AWS CLI.</p></a>
+ 
+ <a href="https://shrishtikapoor01.medium.com/kubernetes-a-boon-for-azure-aks-cf04907cc931" target="_blank" style="text-decoration:none"><p>Kubernetes -A Boon for Azure - AKS.</p></a>
+ 
+ <a href="https://shrishtikapoor01.medium.com/amazon-sqs-service-d89d87c8227a" target="_blank" style="text-decoration:none"><p>AMAZON - SQS SERVICE.</p></a>
 
 </td><td valign="top" width="25%"> 
 
