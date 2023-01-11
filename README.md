@@ -9,14 +9,18 @@
   <img src="https://thumbs.dreamstime.com/z/new-skills-knowledge-webinar-training-business-internet-technology-concept-new-skills-knowledge-webinar-training-business-internet-121274023.jpg" width="1000" height="450" />
 </p>
 ## To Connect with me :)
-  <!--social media icon-->
 <div align="center">
  
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shrishtikapoor01)
-[<img align="left" alt="Shrishti Kapoor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aaditya Tiwari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ 
+ 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/amit17133129)
+[![Linkedin Badge](https://img.shields.io/badge/-Amit%20Sharma-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/amit-sharma-35439016a/)](https://www.linkedin.com/in/amit-sharma-35439016a//) [![Twitter Badge](http://img.shields.io/badge/-@AmitSharma-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/AmitSha57543491)](https://twitter.com/AmitSha57543491) [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/amit17133129)
+![GitHub Stars](https://img.shields.io/github/stars/amit17133129?style=social)
+[![Instagram Badge](https://img.shields.io/badge/-AmitSharma-blue?style=social&logo=Instagram&link=https://www.instagram.com/the_interstellar_guy/?hl=en/)](https://www.instagram.com/the_interstellar_guy/?hl=en/) 
 
-</div>  
+
+
+</div>    
 </br>
 
 <!--About Me-->
