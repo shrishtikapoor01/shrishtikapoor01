@@ -24,7 +24,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='left' src="https://media.licdn.com/dms/image/C5603AQHSkUkBQELuzQ/profile-displayphoto-shrink_400_400/0/1643257181135?e=1678924800&v=beta&t=hNwxNvf5Dm8wWdPJoBFOkkKrdMW6cdFaTA2OTfkUt74"> 
+  <img width="240" height="230" align='left' src="https://avatars.githubusercontent.com/u/52373966?s=400&u=5c66b00e623c1281312b5c7c73822d65160b23e8&v=4"> 
 </p>
  
 ## About Me ✍
